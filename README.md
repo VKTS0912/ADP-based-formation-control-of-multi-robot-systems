@@ -1,6 +1,6 @@
 # FORMATION TRACKING CONTROL FOR MULTI-ROBOT SYSTEMS BASED ON REINFORCEMENT LEARNING - ADP APPROACH
 ## Graduation thesis
-Please view the graduation thesis in the [link](https://storage.googleapis.com/hust-files/2025-02-04/1738641164370/5553868433784832/formation_control_wmr_report_vokhoithanhson_20202768_30.0m.pdf) to understand the topic and our control design.
+Please view the graduation thesis in the [link](https://storage.googleapis.com/hust-files/2025-02-04/1738641164370/5553868433784832/formation_control_wmr_report_vokhoithanhson_20202768_30.0m.pdf) to understand the topic and our control design. For an overview, please look at the presentation file inside the graduation_folder
 
 ## Guidance on how to run the files 
 Simulation is performed on MATLAB SIMULINK to validate the proposed control method: ADP-based optimal control integrated with disturbance observer. The results of the traditional control method using feedback linearization is also illustrated for comparison.
